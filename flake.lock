@@ -164,11 +164,11 @@
     "sad-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1649465129,
-        "narHash": "sha256-/QSKyZQXHuQ6o7dp8ZPgaE8ADD4t6CvA8ZnfYrZZCKw=",
+        "lastModified": 1649551715,
+        "narHash": "sha256-nwLoNrs2zczGfWvInL6ytAX6MMjQzqJ8nOGUPuG8pL8=",
         "owner": "ms-jpq",
         "repo": "sad",
-        "rev": "8e2ba18e2d5e26e86a9744ce2647b57c5de8cba4",
+        "rev": "1c4c5e349d8a3faa1894411866408ec72e64647d",
         "type": "github"
       },
       "original": {
